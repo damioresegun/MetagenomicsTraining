@@ -4,7 +4,7 @@
 ## Download:
 - Download the repository:
   - Click the green `Code` then `Download zip`
-  - On your computer, in the Downloads; unzip with: `gunzip `
+  - On your computer, in the Downloads; unzip with: `gunzip MetagenomicsTraining-main.zip`
 
 ## Course:
 - Open the `Getting_Started.pptx`. Follow the slides
